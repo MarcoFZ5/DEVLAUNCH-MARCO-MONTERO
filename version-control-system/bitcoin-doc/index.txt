@@ -1,13 +1,10 @@
-¿Que es bitcoin?
+Bitcoin: La Primera Criptomoneda
 
-Bitcoin es una criptomoneda.
+Introducción:
+Bitcoin es una moneda digital descentralizada creada en 2009 por una persona o grupo bajo el seudónimo de Satoshi Nakamoto.
 
-La tecnologia de bitcoin ..............
+Cuerpo:
+Funciona mediante tecnología blockchain, permitiendo transacciones seguras sin necesidad de intermediarios. Su emisión está limitada a 21 millones de unidades, lo que le otorga un carácter deflacionario. Es utilizado como inversión y medio de pago en diversos comercios.
 
-................
-
-..............
-
-............
-
-.......... FOOTTERRRRR ..........
+Conclusión:
+Bitcoin ha revolucionado el sistema financiero, ofreciendo una alternativa digital al dinero tradicional y promoviendo la descentralización económica.
