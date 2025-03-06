@@ -1,0 +1,39 @@
+Proporciona una explicacion detallada en un .txt de las acciones
+que realizarias al prepararte para conducir un carro automatico.
+
+Este ejercicio esta diseñado para ayudar a entender los conceptos basicos
+de los algoritmos al darte un ejemplo del mundo real sobre como llevar
+el carro a dar un paseo!
+
+
+SOLUCION:
+
+Busco la licencia
+Busco las llaves
+Camino hacia el carro
+Abro el carro
+Si esta cerrado, desbloqueo la puerta con la llaves
+Si esta abierto, abro la puerta
+Me siento en el asiento del conductor
+Me pongo el cinturon de seguridad
+---- Si quiero escuchar musica antes de salir --
+Saco el telefono
+Desbloqueo el telefono
+Conecto el Bluetooth
+Conecto el Bluetooth al carro
+Utilizo la pantalla del carro para ir al modulo de musica
+Pongo una playlist antes de salir
+----
+Presiono el freno del carro
+Presiono el boton de encendido
+Con el carro encendido
+Presiono el freno del carro
+--- Si se ocupa salir de reversa --
+Pongo la marcha en reversa
+Saco el carro del garaje
+--- Si se ocupa salir de frente --
+Pongo la marcha en D
+Saco el carro del garaje
+Si un carro va pasando por la calle:
+Espero a que pase
+Continuo saliendo
