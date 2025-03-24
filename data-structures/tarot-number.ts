@@ -24,7 +24,6 @@ const sumDigits = (number: number): number => {
     return sum
 }
 
-
 const calculateTarotNumber = (day: number, month: number, year: number): number | null => {
     if (!isValidDate(day, month, year)) {
         console.log("fecha invalida")
