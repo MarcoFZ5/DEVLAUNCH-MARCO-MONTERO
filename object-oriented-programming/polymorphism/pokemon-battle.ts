@@ -4,7 +4,7 @@ abstract class Pokemon {
 
     constructor(name: string, health: number = 100) {
         this.name = name
-        this.health = this.health
+        this.health = health
     }
 
     public isAlive(): boolean {
