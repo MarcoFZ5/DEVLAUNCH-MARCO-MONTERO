@@ -10,4 +10,20 @@ const isPrime = (n: number) => {
     return true
 }
 
-console.log(isPrime(2))
+const printPrimes = (final: number) => {
+    for (let i = 2; i < final; i++) {
+        if (isPrime(i)) {
+            console.log(i)
+        }
+    }
+}
+
+const printTwinPrimes = (final: number) => {
+    for (let i = 2; i < final - 2; i++) {
+        if (isPrime(i) && isPrime(i + 2)) {
+            console.log(`(${i}, ${i + 2})`)
+        }
+    }
+}
+
+printTwinPrimes(20)
